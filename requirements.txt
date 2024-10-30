@@ -1,0 +1,10 @@
+rsconnect
+shiny
+plotly
+tidyverse
+flexboard
+plyr
+reshape2
+flexdashboard
+shinyWidgets
+markdown
