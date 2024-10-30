@@ -1,0 +1,10 @@
+name: REAP-demo
+title: REAP-demo
+username: nicdemon
+account: nicdemon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13182879
+bundleId: 9292291
+url: https://nicdemon.shinyapps.io/REAP-demo/
+version: 1
